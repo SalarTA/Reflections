@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+ A new repository is created by 'git init' to manage different versions of files
+ 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Working directory contains all files individually whereas staging area contains files and shows the status of those files in a specific repository.
