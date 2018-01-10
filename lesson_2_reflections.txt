@@ -10,4 +10,6 @@ create a new commit of staging area after each logical change
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 In some cases that we are not sure these changes will be helpful or not, we can make a branch and apply those kind of changes without destroying main codes.
 
-New line
+How do the diagrams help you visualize the branch structure?
+
+
